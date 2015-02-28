@@ -1,0 +1,209 @@
+
+body {
+color : #343434;
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 0.9em;
+text-align : left;
+margin : 0;
+padding : 0 0 0;
+background : url(noisy.png);
+}
+a {
+color : #BBBBBB;
+text-decoration : none;
+}
+a:visited {
+color : #BBBBBB;
+text-decoration : none;
+}
+a:hover {
+color : #99AC75;
+text-decoration : none;
+}
+#container {
+margin : auto;
+margin-top : 0;
+width : 900px;
+background-repeat : repeat-x;
+}
+
+
+b {
+  color: #a2b9ca;
+}
+
+#menuaffi a, #menuaffi a:visited {
+text-transform: uppercase;
+font-weight : bold;
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 12px;
+letter-spacing: 2px;
+text-align : center;
+color : #ffffff;
+background-color: #002846;
+display : block;
+width : 250px;
+height : 20px;
+padding : 0.7em;
+margin : 0.5em auto;
+border-radius: 10px;
+}
+#menuaffi a:hover {
+text-transform: uppercase;
+font-weight : bold;
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 12px;
+text-align : center;
+letter-spacing: 2px;
+background-color: #96a3b1;
+color : #002846;
+display : block;
+width : 250px;
+height : 20px;
+padding : 0.7em;
+margin : 0.5em auto;
+}
+#header {
+width : 900px;
+height : 355px;
+background : url(header.png) no-repeat;
+margin-top : 30px;
+position : relative;
+border-top : 9px solid #ffffff;
+border-radius: 20px 20px 0px 0px;
+}
+#headerimg6 {
+list-style : none;
+margin-left: 200px;
+position : absolute;
+height : 165px;
+width : 430px;
+float : left;
+top : 10px;
+text-align : left;
+font-size : 80%;
+color : #b9b9b9;
+background : none;
+}
+#content {
+float : left;
+padding : 5px 10px 10px 12px;
+width : 583px;
+color : #808080;
+background: #ffffff;
+text-align : left;
+}
+#content h1, #content .commentformtitle {
+  color: #474745;
+  font-family: "Comic Sans";
+  text-align: center;
+  font-size: 15pt;
+  letter-spacing:2px;
+  border-bottom: 1px solid #aaaaaa;
+  padding:5px;
+  margin:20px 2px 7px 1px;
+}
+#sitebar {
+float : right;
+padding : 6px 13px 3px 10px;
+width : 272px;
+color : #ffffff;
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 0.9em;
+text-align : center;
+border-bottom : 9px solid #ffffff;
+border-radius: 0px 0px 20px 0px;
+background: #b6c1cd;
+opacity:0.6;
+}
+
+#sitebar h1 {	
+  color: #ffffff;
+  font-family:arial;
+  font-size:10pt;
+  text-align: center;
+  text-transform:uppercase;
+  letter-spacing:6px;
+  padding:10px;
+  margin:20px 2px 7px 1px;
+}
+
+
+#title {
+  position:absolute;
+  width: 160px;
+  left: 24px;
+  float : left;
+  top: 124px;
+  font-family: "Comic Sans";
+  font-size: 30pt;
+  text-align: right;
+  color: #ffffff;
+  padding: 10px 0px 0px 270px;
+  letter-spacing: -4px;
+}
+
+#footer {
+clear : both;
+color : #ffffff;
+font-weight : bold;
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 12px;
+text-align : center;
+margin-left : auto;
+margin-right : auto;
+width : 100%;
+height : 40px;
+text-align : left;
+background : #002846;
+opacity:0.6;
+}
+#footer a, #footer a:visited {
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 12px;
+}
+.footer_holder {
+margin : auto;
+padding : 0;
+width : 1000px;
+height : 50px;
+}
+#footerbar_1 {
+margin-left : auto;
+margin-right : auto;
+padding-top : 10px;
+width : 600px;
+font-weight : bold;
+font-family : "Trebuchet MS",Arial,verdana;
+font-size : 12px;
+text-align : left;
+background : none;
+}
+
+Textarea {
+text-align : left;
+color : #353535;
+font-family : arial;
+font-size : 13px;
+padding : 5px;
+width : 340px;
+border : #dfc6b3 solid 1px;
+background : #ecddd2;
+}
+Input {
+margin : 2px;
+padding : 2px;
+border : #dfc6b3 solid 1px;
+background : #ecddd2;
+font-size : 80%;
+border-radius : 5px;
+}
+blockquote {
+ background-color: #EFEFEF;
+ padding: 10px;
+ border-radius: 10px;
+ border: 1px solid #D3D3D3;
+ quotes: "\201C" "\201D";
+ }
+ blockquote:before { content: open-quote; font-weight: bold; }
+ blockquote:after { content: close-quote; font-weight: bold; }

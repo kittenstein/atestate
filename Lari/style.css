@@ -1,0 +1,267 @@
+
+body {
+color : #343434;
+font-family : verdana ,"Trebuchet MS",Arial, georgia;
+font-size : 0.8em;
+text-align : justify;
+margin : 0;
+padding : 0 0 0;
+background : url("noisy.png");
+}
+
+tab
+{
+padding-left:1cm;
+}
+
+a {
+color : #343434;
+text-decoration : none;
+}
+a:visited {
+color : #343434;
+text-decoration : none;
+}
+a:hover {
+color : #2d5598;
+text-decoration : none;
+}
+#container {
+margin : auto;
+margin-top : 0;
+width : 900px;
+background-repeat : repeat-x;
+}
+
+b {
+  color: #343434;
+}
+
+#menuu {
+width : 500px;
+margin : 0px;
+padding : 7px 0 0 0;
+list-style : none;
+background : url("mb11.png");
+box-shadow : 0 2px 2px #C0C0C0;
+border-radius: 10px;
+border-left: 7px solid #ffffff;
+border-right: 7px solid #ffffff;
+
+}
+#menuu li {
+float : left;
+padding : 0 0 7px 0;
+position : relative;
+}
+#menuu a {
+float : left;
+height : 25px;
+padding : 0 15px;
+text-transform : uppercase;
+font : bold 12px/25px Arial;
+text-decoration : none;
+color : #fafafa;
+}
+#menuu li:hover > a {
+color : #fafafa;
+}
+#menuu li:hover > ul {
+display : block;
+}
+#menuu ul {
+list-style : none;
+margin : 0;
+padding : 0;
+display : none;
+position : absolute;
+top : 35px;
+left : 0;
+z-index : 99999;
+background-color:#191806;
+opacity:0.8;
+border-radius: 10px;
+}
+#menuu ul li {
+float : none;
+margin : 0;
+padding : 0;
+display : block;
+box-shadow : 0 1px 0, 0 2px 0 #C1C1C1;
+}
+#menuu ul li:last-child {
+box-shadow : none;
+}
+#menuu ul a {
+padding : 10px;
+height : auto;
+line-height : 1;
+display : block;
+white-space : nowrap;
+float : none;
+text-transform : none;
+}
+*:first-child + html #menuu ul a {
+height : 10px;
+width : 150px;
+}
+#menuu ul a:hover {
+background : url("mb1.png");
+}
+#menuu ul li:first-child a {
+}
+#menuu ul li:first-child a:after {
+content : '';
+position : absolute;
+left : 30px;
+top : -8px;
+width : 0;
+height : 0;
+border-left : 5px solid transparent;
+border-right : 5px solid transparent;
+border-bottom : 8px solid #191806;
+}
+#menuu ul li:first-child a:hover:after {
+border-bottom-color : #b75258;
+}
+#menuu ul li:last-child a {
+border-radius: 0px 0px 10px 10px;
+}
+#menuu:after {
+visibility : hidden;
+display : block;
+font-size : 0;
+content : " ";
+clear : both;
+height : 0;
+}
+
+#sitebar {
+float : center;
+padding : 6px 13px 3px 10px;
+width : 190px;
+color : #D6D5CF;
+font-family : verdana,"Trebuchet MS",Arial;
+font-size : 1em;
+text-align : justify;
+border-bottom : 9px solid #ffffff;
+border-top: 9px solid #ffffff;
+border-radius: 0px 0px 0px 20px;
+background: #509ac4;
+opacity:0.7;
+border-top : 5px solid transparent;
+}
+
+.half {
+    -moz-transform:scale(0.8);
+    -webkit-transform:scale(0.8);
+    transform:scale(0.8);
+}
+
+.half2 {
+    -moz-transform:scale(0.2);
+    -webkit-transform:scale(0.2);
+    transform:scale(0.2);
+}
+
+#sitebar h1 {	
+  color: #ffffff;
+  font-family: arial;
+  font-size:10pt;
+  text-align: center;
+  text-transform:uppercase;
+  letter-spacing:6px;
+  padding:10px;
+  margin:20px 2px 7px 1px;
+}
+
+#menuaffi a:hover {
+text-decoration : none;
+text-align : center;
+background-color: #233e6d;
+color : #ffffff;
+display : block;
+width : 250px;
+height : 20px;
+padding : 0.7em;
+margin : 0.5em auto;
+}
+
+
+#header {
+width : 900px;
+height : 311px;
+background : url("header2.png") no-repeat;
+margin-top : 60px;
+position : relative;
+border-top : 9px solid #ffffff;
+border-radius: 20px 20px 0px 0px;
+}
+#headerimg6 {
+list-style : none;
+margin-left: 320px;
+margin-top: 376px;
+position : absolute;
+height : 165px;
+width : 430px;
+float : left;
+top : 10px;
+text-align : left;
+font-size : 80%;
+color : #b9b9b9;
+background : none;
+align: center;
+}
+#content {
+float : right;
+padding : 30px 10px 10px 12px;
+width : 665px;
+color : #808080;
+background: #ffffff;
+text-align : justify;
+}
+#content h1, #content .commentformtitle {
+  color: #474745;
+  font-family: arial;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 13pt;
+  letter-spacing: 3px;
+  border-bottom: 1px solid #aaaaaa;
+  padding:5px;
+  margin:20px 2px 7px 1px;
+}
+
+
+
+Textarea {
+text-align : left;
+color : #353535;
+font-family : arial;
+font-size : 13px;
+padding : 5px;
+width : 340px;
+border : #dfc6b3 solid 1px;
+background : #ecddd2;
+}
+Input {
+margin : 2px;
+padding : 2px;
+border : #dfc6b3 solid 1px;
+background : #ecddd2;
+font-size : 80%;
+border-radius : 5px;
+}
+blockquote {
+ background-color: #EFEFEF;
+ padding: 10px;
+ border-radius: 10px;
+ border: 1px solid #D3D3D3;
+ quotes: "\201C" "\201D";
+ }
+ blockquote:before { content: open-quote; font-weight: bold; }
+ blockquote:after { content: close-quote; font-weight: bold; }
+
+a.sideh:hover {
+background-color:#33CCFF;
+}

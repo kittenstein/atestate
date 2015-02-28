@@ -1,0 +1,124 @@
+
+body {
+color : #343434;
+font-family : verdana ,"Trebuchet MS",Arial, georgia;
+font-size : 0.8em;
+text-align : justify;
+margin : 0;
+padding : 0 0 0;
+background: #DFE2E7 url("bg.png") repeat-x;
+
+}
+
+
+a {
+color:#F8F8FF;
+text-decoration : none;
+}
+a:visited {
+color:#F8F8FF;
+text-decoration : none;
+}
+a:hover {
+color:#F8F8FF;
+text-decoration : none;
+}
+#container {
+margin : auto;
+margin-top : 0;
+width : 960px;
+background-repeat : repeat-x;
+}
+
+b {
+  color: #343434;
+}
+
+#pages {
+  color: #ffffff;
+  float: right;
+  width : 910px;
+  font-family: family;
+  text-transform: lowercase;
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 25px;
+  background: #424953;
+  border-bottom: 4px solid #aaaaaa;
+  padding:5px;
+  margin:20px 2px 7px 1px;
+  opacity: 0.8;
+}
+
+#content {
+padding : 30px 10px 10px 12px;
+float: right;
+width : 900px;
+color : #444444;
+background: #f0f0e8;
+text-align : justify;
+}
+#content h1, #content .commentformtitle {
+  color: #ffffff;
+  font-family: verdana;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 14px;
+  background: #424953;
+  border-bottom: 2px solid #aaaaaa;
+  padding:5px;
+  margin:20px 2px 7px 1px;
+}
+
+Textarea {
+text-align : left;
+color : #353535;
+font-family : arial;
+font-size : 13px;
+padding : 5px;
+width : 340px;
+border : #dfc6b3 solid 1px;
+background : #ecddd2;
+}
+
+
+hr {
+  border: 0;
+  color: #DADADA;
+  background-color: #DADADA;
+  height: 2px;
+}
+
+
+blockquote {
+ background-color: #EFEFEF;
+ padding: 5px;
+ border: 1px solid #D3D3D3;
+ margin: 0px;
+ }
+
+#header {
+width : 1000px;
+height : 600px;
+background : url("header.png") no-repeat;
+margin-top : 0;
+
+}
+
+
+#menuaffi a:hover {
+text-align : center;
+font-size : 9pt;
+letter-spacing:3px;
+border-bottom : 1px solid #dadada;
+background-color:#6abd68;
+color : #444444;
+display:block;
+width : 200px;
+height : 20px;
+padding : 0.5em;
+margin : 0.5em auto;
+opacity:0.7;
+filter:alpha(opacity=80); /* For IE8 and earlier */
+}

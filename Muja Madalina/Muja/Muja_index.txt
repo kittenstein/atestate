@@ -1,0 +1,46 @@
+<h1>Chimie organica</h1><br/><br/>
+<b>Chimia organica</b> este ramura chimiei care se ocupa cu studiul structurii, proprieta?ilor, reac?iilor de sinteza sau de descompunere a compu?ilor organici. Compu?ii organici sunt substan?e alcatuite în principal din carbon ?i hidrogen, dar pot con?ine ?i oxigen, azot, sulf, fosfor sau bor, precum ?i restul elementelor, dar în cantita?i mult mai mici.
+Din punct de vedere istoric, prima substan?a organica creata artificial a fost sintetizata de catre Friedrich Wöhler în anul 1828. Prin distilarea uscata a oaselor, Woehler a ob?inut ureea.<br/><br/>
+Primul colorant chimic a fost negrul de anilina, ob?inut de William Henry Perkin în 1856.<br/><br/>
+Compu?ii organici pot fi caracteriza?i prin nomenclatura substan?elor organice, care atribuie un nume stabilit printr-un set de reguli stricte elaborate de catre <b>IUPAC</b>.<br/><br/>
+Dintre substan?ele organice cu importan?a practica, amintim: <b>metan, etena, acetilena, benzen, toluen, alcool etilic, alcool metilic, formaldehida, acetaldehida, acid acetic, acid formic, glucoza, fructoza</b>.
+
+<h1>Clasificare</h1><br/><br/>
+Substan?ele organice se împart în:<br/>
+<ul>
+<li>Hidrocarburi saturate<br/>
+	<ul>
+	<li>Alcani</li>
+	<li>Izoalcani</li>
+	<li>Cicloalcani</li>
+	</ul></li>
+
+<li>Hidrocarburi nesaturate<br/>
+	<ul>
+	<li>Alchene</li>
+	<li>Alchine</li>
+	<li>Alcadiene</li>
+	</ul></li>
+
+<li>Hidrocarburi aromatice<br/>
+	<ul>
+	<li>Arenele</li>
+	</ul></li>
+
+<li>Compu?i organici cu func?iuni<br/>
+	<ul>
+	<li>Compu?i halogena?i</li>
+	<li>Compu?i hidroxilici: alcooli ?i fenoli</li>
+	<li>Amide</li>
+	<li>Compu?i carbonilici: aldehide ?i cetone</li>
+	<li>Acizi carboxilici</li>
+	</ul></li>
+
+<li>Compu?i organici cu ac?iune biologica<br/>
+	<ul>
+	<li>Grasimi</li>
+	<li>Proteine</li>
+	<li>Zaharide</li>
+	<li>Vitamine</li>
+	</ul></li>
+</ul><br/><br/>

@@ -1,0 +1,18 @@
+<h1>Alcani</h1><br/>
+Alcanii sunt hidrocarburile în care nu apar decât legaturi simple de tipul C-C si C-H si la care raportul numeric dintre cele doua tipuri de atomi este exprimat prin formula C<sub>n</sub>H<sub>2n+2</sub>, unde n reprezinta numarul atomilor de carbon. În continuare, detalii despre alcani.<br/>
+
+<h1>Denumirea alcanilor</h1><br/>
+Daca i se dau lui n valori naturale succesive (sirul natural al numerelor) se obtine seria omoloaga a alcanilor. Numele alcanilor se formeaza dupa regula, cu exceptia primilor patru termeni care au denumiri specifice.<br/><br/>
+
+n=1 CH4 metan CH4<br/><br/>
+n=2 C2H6 etan CH3-CH3<br/><br/>
+n=3 C3H8 propan CH3-CH2-CH3<br/><br/>
+n=4 C4H10 butan CH3-CH2-CH2-CH3<br/><br/>
+n=5 C5H12 pentan CH3-CH2-CH2-CH2-CH3<br/><br/>
+n=6 C6H14 hexan CH3-CH2-CH2-CH2-CH2-CH3<br/><br/>
+
+Toti acesti alcani au catene liniare. La alcanii cu patru atomi de carbon sau mai multi poate aparea ramificarea lantului. De aceea, denumirea alcanilor liniari este completata cu prefixul normal iar denumirea alcanilor ramificati se completeaza cu prefixul "izo". Cicloalcanii sunt hidrocarburi ciclice saturate care contin o catena ciclica si au formula generala CnH2n. Daca din molecula unui alcan se îndeparteaza un atom de hidrogen rezulta un radical alchil.<br/><br/>
+CH3- (metil) ; -CH2- (metilen) ; -CH- (metin)<br/><br/>
+CH3-CH2-CH2- (propil)<br/><br/>
+
+

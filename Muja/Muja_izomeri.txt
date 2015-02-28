@@ -1,0 +1,17 @@
+<h1>Izomeri de catena</h1><br/>
+
+Atomii din catenele de metan, etan, propan, nu se pot aranja decât în câte un singur mod. Pentru butan exista doua modalitati:<br/><br/>
+<center><img src="1.jpg"/></center><br/><br/>
+Acestia sunt izomeri de catena.<br/><br/>
+Numarul de izomeri de catena creste odata cu numarul atomilor de carbon din molecula. Este foarte important de retinut ca toti izomerii unei substante au aceeasi formula moleculara dar sunt substante chimice diferite.<br/><br/>
+Izomerii de catena ai alcanilor se denumesc dupa urmatoarea regula:<br/>
+<ul>
+<li>se stabileste cea mai lunga catena liniara;</li>
+<li>se numeroteaza de la un capat atomii de C astfel încât catena laterala sa ocupe pozitia cu numarul cel mai mic;</li>
+<li>se denumesc radicalii catenelor laterale si se indica pozitia lor prin cifre;</li>
+<li>citirea radicalilor se face în ordine alfabetica (etilul înaintea metilului);</li>
+<li>daca sunt mai multi radicali identici se folosesc prefixe: di-, tri- etc.</li>
+</ul><br/>
+
+Atomii de carbon ai alcanilor sunt hibridizati sp3, ceea ce determina un unghi dintre covalente de 109,5 grade si o lungime a legaturilor C-C de 1,54 A.<br/><br/>
+Principalele surse de alcani sunt gazele naturale si petrolul. Gazele naturale pot fi formate din metan (zacaminte de gaz metan) sau gaze de sonda (gaze de petrol) care contin alcani de la C1 la C5.<br/><br/>
