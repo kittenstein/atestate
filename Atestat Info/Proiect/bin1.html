@@ -1,0 +1,98 @@
+
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+ <title>Avantajele utilizarii STL</title>
+</head>
+
+<body>
+
+
+<div id="container">
+
+
+<div id="headerimg6">
+<ul id="menuu">
+	<li>
+		<a href="index.html">Introducere</a>
+	</li>
+	<li>
+		<a>Sortare</a>
+		<ul>
+			<li><a href="sortare.html">Sortarea clasica</a></li>
+			<li><a href="sort.html">STL Sort</a></li>				
+			<li><a href="sortall.html">Compararea complexitatii</a></li>
+		</ul>
+	</li>
+	<li>
+		<a>Cautare binara</a>
+		<ul>
+			<li><a href="bin1.html">Cautare binara clasica</a></li>
+			<li><a href="bin2.html">STL: Algoritmul "lower_bound"</a></li>
+			<li><a href="bin3.html">STL: Algoritmul "upper_bound"</a></li>
+		</ul>
+	</li>
+
+</ul>
+</div>
+
+
+
+
+<div id="header"></div>
+
+
+
+<div id="content"> 
+<h1>Cautarea binara clasica</h1> 
+Algoritmul de cautare binara este un algoritm de cautare folosit pentru a gasi un element intr-o lista ordonata (tablou unidimensional/vector). Algoritmul functioneaza pe baza tehnicii divide et impera. Valoarea cautata este comparata cu cea a elementului din mijlocul listei. Daca e egala cu cea a acelui element, algoritmul se termina. Daca e mai mare decat acea valoare, algoritmul se reia, de la mijlocul listei pana la sfarsit, iar daca e mai mica, algoritmul se reia pentru elementele de la inceputul listei pana la mijloc. Intrucat la fiecare pas cardinalul multimii de elemente in care se efectueaza cautarea se injumatateste, algoritmul are complexitate logaritmica.
+<br>
+
+<center>
+<img src="bin.jpg"> </img>
+</center>
+<br>
+
+In imaginea de mai sus este descris procedeul prin care algoritmul lucreaza pentru a gasi intr-un vector sortat elementul de valoare 76. <br>
+O functie recursiva care realizeaza cautarea binara a unui element intr-un vector sortat este realizata in codul urmator:<br><br>
+<center>
+<img src="bin.png" border="1"></img><br><br>
+<b>Complexitate</b>
+<ul>
+<li>Caz favorabil: O(1);</li>
+<li>Caz nefavorabil: O(log n);</li>
+<li>Complexitate medie: O(log n);</li>
+</ul>
+</center>
+<br /><br /><br />
+</div>
+
+<div id="sitebar"> 
+<h1>Citate</h1>
+<div id="menuaffi">
+ <a class="fade">Biblioteca Standard<br>in viziunea marilor programatori</a></div>
+<img src="1.png"></img><br />
+<hr>
+<img src="2.png"></img>
+<hr>
+</div>
+
+<div id="title">
+<i></i>
+</div>
+
+
+
+</div>
+
+<div id="footer">
+<div id="footer_holder">
+
+<div id="footerbar_1">
+AVANTAJELE UTILIZARII STL - ATESTAT 2015 - ENOIU DORIN
+</div>
+
+
+</div></div>
+
+</body>
+</html>

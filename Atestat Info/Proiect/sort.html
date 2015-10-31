@@ -1,0 +1,123 @@
+
+
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+ <title>Avantajele utilizarii STL</title>
+</head>
+
+<body>
+
+
+<div id="container">
+
+
+<div id="headerimg6">
+<ul id="menuu">
+	<li>
+		<a href="index.html">Introducere</a>
+	</li>
+	<li>
+		<a>Sortare</a>
+		<ul>
+			<li><a href="sortare.html">Sortarea clasica</a></li>
+			<li><a href="sort.html">STL Sort</a></li>
+			<li><a href="sortall.html">Compararea complexitatii</a></li>
+		</ul>
+	</li>
+	<li>
+		<a>Cautare binara</a>
+		<ul>
+			<li><a href="bin1.html">Cautare binara clasica</a></li>
+			<li><a href="bin2.html">STL: Algoritmul "lower_bound"</a></li>
+			<li><a href="bin3.html">STL: Algoritmul "upper_bound"</a></li>
+		</ul>
+	</li>
+	
+</ul>
+</div>
+
+
+
+
+<div id="header"></div>
+
+
+
+<div id="content"> 
+<h1>STL Sort</h1> 
+<B><I>Sort</i></b> este un algoritm predefinit cu o complexitate la executie asemanatoare quicksort-ului. Daca algoritmii bine-cunoscuti de sortare prezentati <a href="sortare.php">aici</a> au avantajul de a necesita un cod de dimensiuni relativ reduse si dezavantajul unei complexitati ridicate, algoritmii eficienti asemenea quicksort-ului au o implementare dificila. <br><br>
+<center>
+<font size="3"><b>QUICKSORT</b></font></br>
+<table>
+<tr>
+<td>
+<center><img src="sorting.gif"></img></center>
+</td>
+<td>
+<center>
+<b>Complexitate</b>
+<ul>
+<font size="2">
+<li>Caz favorabil: O(n);</li>
+<li>Caz nefavorabil: O(n^2);</li>
+<li>Complexitate medie: O(n log n);</li>
+<br>
+</font>
+</ul>
+</center>
+</td></tr></table>
+
+Codul necesar sortarii recursive unui vector cu n elemente utilizand metoda quicksort este urmatorul:
+<br><br>
+<center><img src="quick.png" border="1" bordercolor="#00FF00"></img></center>
+<hr color="#7a7a7a">
+<center>
+<font size="3"><b>STL SORT</b></font></br>
+<table>
+<tr>
+<td><img src="diagram.png"></img>
+</td>
+<td><font size="2">Sortarea din STL are astfel un avantaj urias: dimensiunile reduse ale codului. Utilizat pe vectori, codul presupune doua etape:
+<ul><li>1. Includerea bibliotecii < algorithm >. </li>
+<li>2. Scrierea algoritmului: sort(v+1, v+n+1);</li>  </ul>
+Acest algoritm sorteaza vectorul "v" cu "n" elemente in ordine crescatoare, intr-o complexitate O(n log n).</font></td></tr></table>
+
+
+<br /><br /><br />
+</div>
+
+<div id="sitebar"> 
+<h1>Citate</h1>
+<div id="menuaffi">
+ <a class="fade">Biblioteca Standard<br>in viziunea marilor programatori</a></div>
+<img src="1.png"></img><br />
+<hr>
+<img src="2.png"></img>
+<hr>
+
+
+</div>
+
+
+
+
+<div id="title">
+<i></i>
+</div>
+
+
+
+</div>
+
+<div id="footer">
+<div id="footer_holder">
+
+<div id="footerbar_1">
+AVANTAJELE UTILIZARII STL - ATESTAT 2015 - ENOIU DORIN
+</div>
+
+
+</div></div>
+
+</body>
+</html>

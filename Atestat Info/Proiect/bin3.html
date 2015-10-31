@@ -1,0 +1,94 @@
+
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+ <title>Avantajele utilizarii STL</title>
+</head>
+
+<body>
+
+
+<div id="container">
+
+
+<div id="headerimg6">
+<ul id="menuu">
+	<li>
+		<a href="index.html">Introducere</a>
+	</li>
+	<li>
+		<a>Sortare</a>
+		<ul>
+			<li><a href="sortare.html">Sortarea clasica</a></li>
+			<li><a href="sort.html">STL Sort</a></li>
+			<li><a href="sortall.html">Compararea complexitatii</a></li>
+		</ul>
+	</li>
+	<li>
+		<a>Cautare binara</a>
+		<ul>
+			<li><a href="bin1.html">Cautare binara clasica</a></li>
+			<li><a href="bin2.html">STL: Algoritmul "lower_bound"</a></li>
+			<li><a href="bin3.html">STL: Algoritmul "upper_bound"</a></li>
+		</ul>
+	</li>
+	
+</ul>
+</div>
+
+
+
+
+<div id="header"></div>
+
+
+
+<div id="content"> 
+<h1>STL: Algoritmul "upper_bound"</h1> 
+<b>Utilizare pe vectori</b>
+<br>
+Secventa urmatoare utilizeaza upper_bound pentru a determina pozitiile pe care se pot insera valorile 5 si 6 in sirul a, cu pastrarea relatiei de ordine.
+<ul>
+<font size="2">int a[] = { 2, 3, 5, 5, 5, 8, 10 };<br>
+int * p = upper_bound (a, a+7, 5};<br>
+cout << "pozitia " << p-a << " " << "valoarea actuala " << *p;<br>
+p = upper_bound (a, a+7, 6);<br>
+cout<< " pozitia " << p-a << " " << "valoarea actuala " << *p; 
+</font></ul>
+<b>Executia</b> algoritmului pe caz general poate fi descrisa astfel:<br><br>
+<center><img src="bs.gif"></img></center>
+
+
+<br>
+
+</div>
+
+<div id="sitebar"> 
+<h1>Citate</h1>
+<div id="menuaffi">
+ <a class="fade">Biblioteca Standard<br>in viziunea marilor programatori</a></div>
+<img src="1.png"></img><br />
+<hr>
+<img src="2.png"></img>
+<hr>
+</div>
+
+<div id="title">
+<i></i>
+</div>
+
+
+
+</div>
+
+<div id="footer">
+<div id="footer_holder">
+
+<div id="footerbar_1">
+AVANTAJELE UTILIZARII STL - ATESTAT 2015 - ENOIU DORIN
+</div>
+
+
+</div></div>
+
+</body>
+</html>
